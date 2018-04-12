@@ -1,2 +1,4 @@
-# RAILStest
-Test for RAILS Python class
+# My Rails Repo
+Test for RAILS Python class. I love snakes.
+Just experimenting!
+
